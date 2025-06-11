@@ -23,4 +23,4 @@ This project implements a Convolutional Neural Network (CNN) to differentiate be
 
 ## Conclusion:
 
-This study demonstrates the effectiveness of CNNs—specifically ResNet34—in differentiating between healthy neutrophils and those forming NETs in microscopy images. Through effective preprocessing and comprehensive evaluation, the model offers a promising tool for biomedical imaging, contributing to immunological research and clinical diagnostics.
+This study demonstrates the effectiveness of CNNs specifically ResNet34 in differentiating between healthy neutrophils and those forming NETs in microscopy images. Through effective preprocessing and comprehensive evaluation, the model offers a promising tool for biomedical imaging, contributing to immunological research and clinical diagnostics.
